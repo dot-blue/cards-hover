@@ -1,0 +1,21 @@
+export const items = [
+  { id: 1, name: "A", text: "Letter A" },
+  { id: 2, name: "B", text: "Letter B" },
+  { id: 3, name: "C", text: "Letter C" },
+  { id: 4, name: "D", text: "Letter D" },
+  { id: 5, name: "E", text: "Letter E" },
+  { id: 5, name: "F", text: "Letter E" },
+  { id: 5, name: "G", text: "Letter E" },
+  { id: 5, name: "H", text: "Letter E" },
+  { id: 5, name: "I", text: "Letter E" },
+  { id: 5, name: "J", text: "Letter E" },
+  { id: 5, name: "K", text: "Letter E" },
+
+  { id: 5, name: "L", text: "Letter E" },
+  { id: 5, name: "M", text: "Letter E" },
+  { id: 5, name: "O", text: "Letter E" },
+  { id: 5, name: "P", text: "Letter E" },
+  { id: 5, name: "Q", text: "Letter E" },
+  { id: 5, name: "R", text: "Letter E" },
+  { id: 5, name: "S", text: "Letter E" },
+];
