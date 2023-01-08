@@ -13,9 +13,17 @@ export const items = [
 
   { id: 5, name: "L", text: "Letter E" },
   { id: 5, name: "M", text: "Letter E" },
+  { id: 5, name: "N", text: "Letter E" },
   { id: 5, name: "O", text: "Letter E" },
   { id: 5, name: "P", text: "Letter E" },
   { id: 5, name: "Q", text: "Letter E" },
   { id: 5, name: "R", text: "Letter E" },
   { id: 5, name: "S", text: "Letter E" },
+  { id: 5, name: "T", text: "Letter E" },
+  { id: 5, name: "U", text: "Letter E" },
+  { id: 5, name: "Y", text: "Letter E" },
+  { id: 5, name: "W", text: "Letter E" },
+  { id: 5, name: "X", text: "Letter E" },
+  { id: 5, name: "Y", text: "Letter E" },
+  { id: 5, name: "Z", text: "Letter E" },
 ];
