@@ -5,10 +5,9 @@ function Card({ items }) {
     <div className="container">
       {items.map((item) => {
         return (
-          <div className="card">
-            <div key={item.id}>
-              <div className="text">{item.name}</div>
-            </div>
+          <div key={item.id} className="card">
+            <p> {item.name}</p>
+            <span className="text">{item.text}</span>
           </div>
         );
       })}
